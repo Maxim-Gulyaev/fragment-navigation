@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentNavigation 2701</string>
+    <string name="btn_picture">show picture</string>
+    <string name="btn_text">show text</string>
+    <string name="btn_exit">exit</string>
+    <string name="btn_back">back to menu</string>
+    <string name="image_description">android picture</string>
+</resources>
